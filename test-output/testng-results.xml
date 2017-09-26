@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87" started-at="2017-08-27T01:06:16Z" finished-at="2017-08-27T01:06:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87" started-at="2017-08-27T01:06:16Z" finished-at="2017-08-27T01:06:17Z">
+      <class name="com.cts.java.test.ConsoleMenuTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.cts.java.test.ConsoleMenuTest@3c756e4d]" name="beforeTest" is-config="true" duration-ms="23" started-at="2017-08-27T02:06:17Z" finished-at="2017-08-27T02:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEmployeeId0()[pri:0, instance:com.cts.java.test.ConsoleMenuTest@3c756e4d]" name="testEmployeeId0" duration-ms="11" started-at="2017-08-27T02:06:17Z" finished-at="2017-08-27T02:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmployeeId0 -->
+        <test-method status="PASS" signature="testEmployeeIdNegative()[pri:0, instance:com.cts.java.test.ConsoleMenuTest@3c756e4d]" name="testEmployeeIdNegative" duration-ms="9" started-at="2017-08-27T02:06:17Z" finished-at="2017-08-27T02:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmployeeIdNegative -->
+        <test-method status="PASS" signature="testEmployeeNameEmpty()[pri:0, instance:com.cts.java.test.ConsoleMenuTest@3c756e4d]" name="testEmployeeNameEmpty" duration-ms="3" started-at="2017-08-27T02:06:17Z" finished-at="2017-08-27T02:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmployeeNameEmpty -->
+        <test-method status="PASS" signature="testEmployeeNameNull()[pri:0, instance:com.cts.java.test.ConsoleMenuTest@3c756e4d]" name="testEmployeeNameNull" duration-ms="2" started-at="2017-08-27T02:06:17Z" finished-at="2017-08-27T02:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmployeeNameNull -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.cts.java.test.ConsoleMenuTest@3c756e4d]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-08-27T02:06:17Z" finished-at="2017-08-27T02:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.cts.java.test.ConsoleMenuTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
